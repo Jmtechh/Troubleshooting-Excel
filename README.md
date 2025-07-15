@@ -25,4 +25,8 @@ These methods can help you if:
 
 <img src="https://i.imgur.com/HPlrEYV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/VktVZ48.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/baI88ju.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="https://i.imgur.com/4fmZYAJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
