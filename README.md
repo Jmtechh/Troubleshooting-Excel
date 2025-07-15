@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-In this lab I go through a few troubleshooting methods you can use when you are having problems with Excel. 
+In this lab I go through a few troubleshooting methods you can use when you are having problems with Excel.<br><br> 
 
 These methods can help you if:
 
