@@ -2,17 +2,27 @@
 
 
 <h2>Description</h2>
+In this lab I go through a few troubleshooting methods you can use when you are having problems with Excel. 
+
+These methods can help you if:
+
+- <b>1: Excel is not opening</b>
+- <b>2: Excel file not opening </b>
+- <b>3: Excel not calculating the numbers in the file</b>
+
 
 <h2>Utilities Used</h2>
 
-- <b>Virtualbox</b>
-- <b>virtual machines</b>
-- <b>Windows ISO</b> 
+- <b>Microsoft 365</b>
+- <b>Windows 10</b> 
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10 OS</b>
-- <b>Windows 10 server OS</b>
+- <b>Windows 10 </b>
 - <b>Excel</b>
 
 <h2>Program walk-through:</h2>
+
+<img src="https://i.imgur.com/HPlrEYV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
