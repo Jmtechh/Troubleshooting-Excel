@@ -14,7 +14,6 @@ These methods can help you if:
 <h2>Utilities Used</h2>
 
 - <b>Microsoft 365</b>
-- <b>Windows 10</b> 
 
 <h2>Environments Used </h2>
 
