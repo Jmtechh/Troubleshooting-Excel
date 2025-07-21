@@ -8,7 +8,7 @@ These methods can help you if:
 
 - <b>1: Excel is not opening</b>
 - <b>2: Excel file not opening </b>
-- <b>3: Excel not calculating the numbers in the file</b>
+- <b>3: Excel not calculating the formulas in the file</b>
 
 
 <h2>Utilities Used</h2>
