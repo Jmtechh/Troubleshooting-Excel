@@ -22,6 +22,8 @@ These methods can help you if:
 
 <h2>Program walk-through:</h2>
 
+The first thing you should do is enter into excel in safe mode.  
+
 <img src="https://i.imgur.com/HPlrEYV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <img src="https://i.imgur.com/VktVZ48.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
