@@ -22,7 +22,7 @@ These methods can help you if:
 
 <h2>Program walk-through:</h2>
 
-The first thing you should do is enter into excel in safe mode.  
+The first thing you should do is enter into excel in safe mode. This is a good troubleshooting practice because it allows you to isolate different applications that may be causing start up issues with Outlook.  
 
 <img src="https://i.imgur.com/HPlrEYV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
