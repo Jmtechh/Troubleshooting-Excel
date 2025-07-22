@@ -7,7 +7,7 @@ In this lab I go through a few troubleshooting methods you can use when you are 
 These methods can help you if:
 
 - <b>1: Excel is not opening</b>
-- <b>2: Excel file not opening </b>
+- <b>2: An Excel file is not opening </b>
 - <b>3: Excel not calculating the formulas in the file</b>
 
 
